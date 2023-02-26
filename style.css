@@ -1,0 +1,30 @@
+body {
+    background-image: url("https://tse3.explicit.bing.net/th?id=OIP.p-C-l2h4iKf26mI5s1tKVQHaEV&pid=Api&P=0");
+    background-repeat: no-repeat;
+    background-position: bottom center;
+    background-attachment: fixed;
+}
+.table-container {
+  
+   
+    background-image: url('path/to/image.jpg');
+    background-repeat: no-repeat;
+    background-position: center bottom;
+    background-attachment: fixed;
+  }
+  table, th, td {
+    border: 1px solid black;
+    text-shadow: 10px;
+    font-size: small;
+    font-weight:bold;
+
+  }
+
+  img{
+    width: 33px;
+    height: auto;
+  }
+  h1{
+    color: bisque;
+    background-color: rgb(0, 0, 255);
+  }
